@@ -1,0 +1,112 @@
+[
+    {
+        "title": "Fragile Items Handling",
+        "category": "fragile",
+        "content": [
+            "Fragile items should be handled with care using padded grippers.",
+            "Fragile items should not be stacked more than two high.",
+            "Inspect fragile packages visually before moving them.",
+            "Avoid sudden movements or dropping fragile items.",
+            "Use slow, steady motions when transporting fragile objects."
+        ]
+    },
+    {
+        "title": "Heavy Boxes Handling",
+        "category": "heavy",
+        "content": [
+            "Heavy boxes must be lifted with forklift arms, not robot grippers.",
+            "Heavy boxes require the robot arm to move slowly to maintain balance.",
+            "Always ensure the path is clear before moving heavy boxes.",
+            "Check the maximum load capacity of the robot gripper.",
+            "Do not attempt to lift more than the recommended weight."
+        ]
+    },
+    {
+        "title": "Hazardous Materials Safety",
+        "category": "hazardous",
+        "content": [
+            "Hazardous materials require gloves and sensors to avoid spills.",
+            "Check safety locks before moving hazardous packages.",
+            "Ensure proper ventilation in areas storing hazardous items.",
+            "Follow all emergency procedures in case of leakage.",
+            "Keep flammable materials away from heat sources."
+        ]
+    },
+    {
+        "title": "Equipment Specifications",
+        "category": "equipment",
+        "content": [
+            "Maximum gripper weight capacity is 10kg.",
+            "Forklift arm maximum lift height is 2 meters.",
+            "Conveyor belt speed should not exceed 1 m/s.",
+            "Robot sensors should be calibrated every week.",
+            "Battery levels should be checked before starting operations."
+        ]
+    },
+    {
+        "title": "Troubleshooting Guides",
+        "category": "troubleshooting",
+        "content": [
+            "If the robot fails to pick an object, check the gripper alignment.",
+            "If sensors fail to detect objects, clean the sensor lenses.",
+            "Restart the robot if it freezes during operation.",
+            "Check battery level if the robot stops moving unexpectedly.",
+            "Recalibrate sensors if readings are inconsistent."
+        ]
+    },
+    {
+        "title": "Pallets and Stacking",
+        "category": "pallets",
+        "content": [
+            "Pallets should be aligned properly to avoid tipping during movement.",
+            "Do not stack pallets higher than 2 meters.",
+            "Ensure all boxes on the pallet are stable before transport.",
+            "Check forklift alignment before lifting pallets.",
+            "Secure loose items on pallets with straps if needed."
+        ]
+    },
+    {
+        "title": "Conveyor Operations",
+        "category": "conveyor",
+        "content": [
+            "Conveyor belts should run at a maximum speed of 1 m/s.",
+            "Do not overload conveyor belts beyond their capacity.",
+            "Inspect belt rollers for wear regularly.",
+            "Keep hands and tools away from moving belts.",
+            "Stop the conveyor before performing maintenance."
+        ]
+    },
+    {
+        "title": "Barcode Scanning",
+        "category": "barcode",
+        "content": [
+            "Ensure barcode scanners are clean to avoid misreading package IDs.",
+            "Scan each package individually for accuracy.",
+            "If a barcode is damaged, manually enter the code.",
+            "Check scanner calibration weekly.",
+            "Avoid scanning packages in low light conditions."
+        ]
+    },
+    {
+        "title": "Safety Checks Before Operations",
+        "category": "safety",
+        "content": [
+            "Perform a visual inspection of the robot and workspace before operation.",
+            "Ensure emergency stop buttons are accessible.",
+            "Check all sensors for proper functionality.",
+            "Verify gripper and arm mechanisms are secure.",
+            "Confirm path is free from obstacles or humans."
+        ]
+    },
+    {
+        "title": "Flammable Materials Handling",
+        "category": "flammable",
+        "content": [
+            "Store flammable materials in designated safe areas.",
+            "Keep flammable items away from heat sources.",
+            "Use non-sparking tools when handling flammable items.",
+            "Ensure proper ventilation in areas storing flammable materials.",
+            "Follow emergency procedures in case of fire."
+        ]
+    }
+]
