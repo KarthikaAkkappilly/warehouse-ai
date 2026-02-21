@@ -19,7 +19,7 @@ Before running, change the ROOT path in all files to your local path:
 
 ```python
 ROOT = "/content/drive/MyDrive/warehouse_ai"  # ← CHANGE THIS
-
+```
 ## Results
 <img width="1174" height="95" alt="Screenshot 2026-02-21 111053" src="https://github.com/user-attachments/assets/89d4f0de-3309-434a-bf92-c81cb2528d57" />
 <img width="409" height="598" alt="Screenshot 2026-02-21 111038" src="https://github.com/user-attachments/assets/f9ebc5f4-41d7-42e4-b997-4fac8178b075" />
